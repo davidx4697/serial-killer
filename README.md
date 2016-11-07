@@ -1,5 +1,5 @@
 # Choose Your Own Adventure 
 ---
-##### Click [here](scenefiles/first-choice.md) to start.
+##### Click [here](scene-files/first-choice.md) to start.
 
 
