@@ -6,6 +6,6 @@
 
 #### Which will it be?   
    
-[DEAD END](scene-files/dead-end.md)   
+[DEAD END](dead-end.md)   
    
-[TURN AROUND](scenefiles/run-a-different-direction.md)
+[TURN AROUND](run-a-different-direction.md)
