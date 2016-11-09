@@ -4,7 +4,7 @@ This guy has been on the news for weeks that he will go after anyone he feels li
  
 You have two choices.   
 Will you run to the closest house and scream for help or will you keep running?   
-[HOUSE](scene-files/run-to-house.md)                        
+[HOUSE](run-to-house.md)                        
 
 
 [RUN](running.md)
