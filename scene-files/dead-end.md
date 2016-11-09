@@ -4,4 +4,4 @@
    
 [HIDE](try-to-hide.md)
    
-[TURN AROUND, THIS IS YOUR LAST CHANCE](run-to-a-different-direction.md)
+[TURN AROUND, THIS IS YOUR LAST CHANCE](run-a-different-direction.md)
