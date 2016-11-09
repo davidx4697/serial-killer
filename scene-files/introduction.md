@@ -7,4 +7,4 @@ Will you run to the closest house and scream for help or will you keep running?
 [HOUSE](scene-files/run-to-house.md)                        
 
 
-[RUN](scene-files/running.md)
+[RUN](running.md)
