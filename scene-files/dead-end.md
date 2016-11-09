@@ -2,6 +2,6 @@
 
 #### He is right behind, quickly choose!   
    
-[Hide](try-to-hide.md)
+[HIDE](try-to-hide.md)
    
 [TURN AROUND, THIS IS YOUR LAST CHANCE](run-to-a-different-direction.md)
