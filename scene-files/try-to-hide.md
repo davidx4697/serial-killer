@@ -1,1 +1,2 @@
-## If you decide to run to try and hide at the dead end. You will end up livng longer.
+### You tried to hide, but he has found you. You have died.
+#### Click [here](introduction.md) to start again. 
